@@ -1,0 +1,10 @@
+Lab Architecture
+
+- Hypervisor: VirtualBox
+
+- Domain Controller: Windows Server 2022
+
+- Client Machine: Windows 10
+
+- Network: Internal virtual network
+
