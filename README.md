@@ -5,14 +5,14 @@ This project demonstrates a virtualized Active Directory environment built using
 
 ## Lab Architecture
 - Hypervisor: VirtualBox
-- Domain Controller: Windows Server 2019/2022
+- Domain Controller: Windows Server 2022
 - Client Machine: Windows 10 Pro
 - Network: Internal Network
 
 https://github.com/williamsk6/Active-Directory-Home-Lab/blob/main/screenshots/Lab%20architecture.png
 
 ## Active Directory Setup
-- Created Organizational Units (IT, Sales, HR)
+- Created Organizational Units (IT, Sales, HR, Finance)
 - Added domain users and security groups
 - Configured password and account lockout policies
 
